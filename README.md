@@ -22,25 +22,24 @@ Our  Project  aims  to  build  a  forest  fire  prediction  system  which  will 
 
 # System Requirements 
 ## Hardware requirements: 
-```
-•	Processor: Dual Core or higher
+- Processor: Dual Core or higher
 
-•	Hard Drive: 500 GB or higher
+- Hard Drive: 500 GB or higher
 
-•	RAM: 2GB or higher
+- RAM: 2GB or higher
 
-•	Internet Connection: Preferred 1Mbps or higher
-```
+- Internet Connection: Preferred 1Mbps or higher
+
 ## Software Requirements: 
-```
-•	Front-End Design: HTML, CSS, JavaScript
 
-•	Operating System: Windows 7 or higher
+- Front-End Design: HTML, CSS, JavaScript
 
-•	Editor Tools: Pycharm/VScode 
+- Operating System: Windows 7 or higher
 
-•	Web Browser: Google Chrome 
-```
+- Editor Tools: Pycharm/VScode 
+
+- Web Browser: Google Chrome 
+
 # Data Collection: 
 [Kaggle Forest Fire Dataset](https://www.kaggle.com/datasets/elikplim/forest-fires-data-set)
 The  dataset  used  is  a  public  dataset  which  is  available  for  research  purposes.  This  dataset  was  created  by  Paulo  Cortez  and  Aníbal  Morais  (Univ.  Minho)  @2007.  The  forest  fire  dataset  is  a  multivariate  dataset  which  is  a  data  set  consisting  of  two  or  more  than  two  variables  is  referred  to  as  a  multivariate  dataset.  It  has  13  attributes  having  517  instances.  The  total  file  size  f  the  kaggle  Forest Fire dataset is 7KB
