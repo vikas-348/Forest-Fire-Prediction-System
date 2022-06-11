@@ -24,7 +24,9 @@ Our  Project  aims  to  build  a  forest  fire  prediction  system  which  will 
 
 # Conclusion and Future Scope
 
-Although  the  particular  cause  or  spark  for  a  wildfire  occurrence  cannot  always  be  predicted,  wildfire  risk  can  be  anticipated  to  some  extent  by  understanding  how  climate,  geography,  weather,  and  land  cover  influence  fire  behavior  and  the  likelihood of a fire spreading.
-Forest  fires  cause  significant  environmental  damage  while  threatening  human  lives.  A  substantial  effort  was  made  in  the  last  two  decades  to  build  automatic  detection  tools  that  could  assist  Fire  Management  Systems  (FMS).  The  three  major  trends  are  the  use  of  satellite  data,  infrared/smoke  scanners  and  local  sensors (e.g.meteorological).
+Although  the  particular  cause  or  spark  for  a  wildfire  occurrence  cannot  always  be  predicted,  wildfire  risk  can  be  anticipated  to  some  extent  by  understanding  how  climate,  geography,  weather,  and  land  cover  influence  fire  behavior and  the  likelihood of a fire spreading.
+
+Forest  fires  cause  significant  environmental  damage  while  threatening  human  lives.  A substantial  effort  was  made  in  the  last  two  decades  to  build  automatic  detection  tools  that  could  assist  Fire  Management  Systems  (FMS).  The  three  major  trends  are  the  use  of  satellite  data,  infrared/smoke  scanners  and  local  sensors (e.g.meteorological).
+
 However,  this  work  opens  room  for  the  development  of  automatic  tools  for  fire  management  support.  Since  the  FMS  system  is  widely  used  around  the  world,  further  research  is  need  to  confirm  if  direct  weather  conditions  are  preferable  than accumulated values  as suggested by this study. 
 
